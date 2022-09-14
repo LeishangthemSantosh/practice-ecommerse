@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           
-          Dayal <code>src/App.js</code> and save to reload.
+          This Is React Js
         </p>
         <a
           className="App-link"
